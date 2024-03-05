@@ -1,0 +1,216 @@
+ .nav {
+     background-color: black;
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 50px;
+ }
+
+ @media (max-width: 1024px) and (orientation: portrait) {
+     .main {
+         background-image: url(https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP._SX1440_CR575,0,865,675_QL80_AC_FP_.jpg);
+         background-repeat: no-repeat;
+         background-size: 100% 100%;
+
+
+     }
+
+
+
+ }
+
+ * {
+     padding: 0px;
+     margin: 0px;
+ }
+
+ .nav nav ul li {
+     list-style: none;
+     font-size: 18px;
+     font-weight: 500;
+ }
+
+ div nav ul {
+     display: flex;
+     gap: 12px;
+     align-items: center;
+     justify-content: space-between;
+
+ }
+
+ .gap {
+     padding: 25px;
+ }
+
+ .main {
+     background-image: url(assets/images/MLP.jpg);
+     height: 80vh;
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     color: white;
+     align-items: center;
+     justify-content: center;
+     padding: 25px;
+
+ }
+
+ .h1 {
+     line-height: 3.1rem;
+     font-size: 2.8rem;
+ }
+
+ .ni {
+     line-height: 29px;
+     font-size: 29px;
+ }
+
+ .button {
+     line-height: 35px;
+     font-size: 17px;
+     margin: 10px;
+     width: 207px;
+     color: white;
+     background-color: #0f79af;
+     align-items: center;
+     border-style: none;
+     border-radius: 2px;
+ }
+
+ .s1 {
+     background-image: url(assets/images/TVOD_MLP_Right.jpg);
+     height: 60vh;
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     padding: 85px;
+     padding-left: 10px;
+     color: white;
+     opacity: 1;
+     background-color: black;
+ }
+
+ .ky {
+     font-size: 40px;
+     font-weight: 700;
+     line-height: 48px;
+ }
+
+ .ka {
+     font-size: 21px;
+     font-weight: 400;
+     line-height: 27px;
+ }
+
+ .butt {
+     font-weight: 700;
+     font-size: 17px;
+     line-height: 30px;
+     background-color: #0f79af;
+     width: 165px;
+     color: white;
+     border-radius: 5px;
+ }
+
+ .but {
+     padding-left: 50px;
+ }
+
+ .s2 {
+     background-image: url(assets/images/MLP_Template_Image_Left.jpg
+);
+     height: 90vh;
+     color: white;
+     /* float: right; */
+     background-repeat: no-repeat;
+     /* background-color: black; */
+     background-size: 100% 100% ;
+ }
+
+ .float {
+     /* float: right; */
+     padding: 20px;
+     margin: 40px;
+
+ }
+
+ .yadav {
+     /* font-weight: 400; */
+     font-size: 40px;
+     /* line-height: 45px;
+      */
+      padding: 0px;
+ }
+ .rao{
+     line-height: 26px;
+     width: 50px;
+     /* float: right; */
+     font-size: 21px;
+     font-weight: 400;
+     
+ 
+ }
+ .cont{
+  display: flex;
+  border: solid black 2px;
+ }
+ .txt{
+    font-weight: 400;
+    line-height: 50px;
+    font-size: 45px;
+    padding: 20px;
+    margin: 20px;
+    width: 500px;
+    
+ }
+ .txt2{
+     font-weight: 400;
+     font-size: 24px;
+     line-height: 29px;
+     width: 500px;
+ }
+ .images2{
+     /* height: 160px; */
+     padding: 50px;
+     width: 730px;
+ }
+ .tex3{
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+
+ }
+ .cont3{
+     display: flex;
+ }
+ .demebox{
+     width: 19.5cm;
+
+ }
+ .f{
+     width:20.2cm;
+     padding: 50px;
+ }
+.buut6{
+    padding: 10px;
+    margin-top: 100px;
+}
+.but5{
+    color: #fff !important;
+    background: #0F79AF !important;
+    font-size: 17px;
+    line-height: 20px;
+    width: 8.5cm;
+    height: 1.5cm;
+    font-weight: 400;
+}
+.last{
+    background: #222222;
+    height: 5cm;
+    align-items: center;
+    justify-content: center;
+}
+.img8{
+    align-self: center;
+    margin: 600px;
+    margin-top: 0px;
+    padding-top: 50px;
+}
